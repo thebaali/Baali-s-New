@@ -1,0 +1,36 @@
+#cre-con h6{
+    color: #fff;
+    font-size: 100px;
+    position: absolute;
+    top: 17%;
+    left: 16%;
+    margin: 0%;
+    padding: 0%;
+    width: 36%;
+}
+#cre-con p{
+    color: #fff;
+    font-size: 17px;
+    position: absolute;
+    top: 55%;
+    left: 16%;
+    width: 33%;
+}
+.btn{
+    display: flex;
+    position: absolute;
+    top: 67%;
+    left: 16%;
+}
+.btn .btn-s{
+    background-color: #fff;
+    box-sizing: border-box;
+    border: none;
+    width: 207px;
+    height: 58px;
+    margin-left: 2%;
+}
+.btn .btn-s:hover{
+    background-color: black;
+    color: #fff;
+}

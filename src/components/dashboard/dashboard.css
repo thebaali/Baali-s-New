@@ -1,0 +1,12 @@
+#dash {
+    display: flex;
+    flex-wrap: wrap;
+}
+#dash .dash-flex .img1{
+width: 555px;
+height: 419.6px;
+vertical-align:middle;
+border-style: none;
+margin-left: 118px;
+margin-top: 31px;
+}

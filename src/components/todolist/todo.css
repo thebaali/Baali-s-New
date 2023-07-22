@@ -1,0 +1,73 @@
+*{
+    font-family: cursive;
+}
+body{
+    background: rgb(255, 255, 255);
+    }
+    
+    .todo-container{
+    /* background: rgb(41, 33, 33); */
+    background-image: url(../images/cute-disney-stitch.jpg);
+    background-size: 663px;
+    background-repeat: no-repeat;
+    width: 40vw;
+    margin: 10em auto;
+    border-radius: 15px;
+    padding: 20px 10px;
+    color: rgb(255, 255, 255);
+border: 3px solid rgb(46, 46, 46);
+    }
+        
+    .task{
+
+    border: 1px solid rgb(94, 112, 218);
+    background: linear-gradient( to right ,purple,blue );
+    border-radius: 5px;
+    padding: 1.5em;
+    margin: 2.5em;
+    opacity: 0.7;
+    }
+    .task:hover{
+        opacity: 0.9;
+        background-color: rgb(141, 141, 232 );
+        color: rgb(214, 172, 33);
+    }
+    .task button{
+    background: rgb(12, 124, 251);
+    border-radius: 5px;
+    margin: 0px 5px;
+    padding: 3px 5px;
+    border: none;
+    cursor: pointer;
+    /* color: white; */
+    float: right;
+    }
+    
+    .header{
+    margin: 0.5em;
+    font-size: 2em;
+    text-align: center;
+    background: -webkit-linear-gradient(#eb15e8, #0a14da);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    }
+    
+    .create-task input[type=text]{
+    margin: 2.5em 2em;
+    width: 84%;
+    background: linear-gradient(74deg, #ac89cc, #4c9ec2);
+    outline:2px solid #4400ff;
+    outline-offset: 4px;
+    border: none;
+    border-radius: 35px;
+    padding: 0.7em;
+    }
+    .create-task input[type=text]:focus{
+        outline-offset: 7px;
+        box-shadow: 9px 8px 200px #3552e7;
+    }
+
+
+
+
+    

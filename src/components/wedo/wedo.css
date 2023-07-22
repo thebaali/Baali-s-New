@@ -1,0 +1,15 @@
+.wedo h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    font-size: 44px;
+}
+.wedo #box{
+    border: 5px solid black;
+    width: 59px;
+    margin-left: 48%;
+}
+.crd{
+    display: flex;
+    flex-wrap: nowrap;
+}

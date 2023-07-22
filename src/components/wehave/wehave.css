@@ -1,0 +1,13 @@
+#have .have-con h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 748px;
+    margin-left: -746px;
+    font-size: 44px;
+    color: black;
+}
+#have .have-con #box{
+    border: 5px solid rgb(0, 0, 0);
+    width: 59px;
+    margin-left: 8%;
+}
